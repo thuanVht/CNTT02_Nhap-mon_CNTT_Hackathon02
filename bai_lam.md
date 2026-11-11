@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:** Võ Hoàng Thuận
 - **Lớp:** CNTT02
-- **Link repository:**
+- **Link repository:** https://github.com/thuanVht/CNTT02_Nhap-mon_CNTT_Hackathon02
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
