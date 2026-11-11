@@ -176,8 +176,8 @@ Property :
 
 | STT | Tab DevTools phát hiện lỗi | Tên file hoặc thông báo lỗi | Cách khắc phục |
 | --- | --- | --- | --- |
-| 1 | | GET file:///C:/Users/Admin/Downloads/starter-kit/starter-kit/phong-thu-am-wedsite/web/images/logo-sound.png net::ERR_FILE_NOT_FOUND | sửa thành logo-soundlab.png |
-| 2 |  |app.js:18 Uncaught ReferenceError: hienThiGoiThuAm is not defined  |tại dòng 18 của java sửa từ hiển thị gói thu mm sang hien thi goi thu  |
+| 1 | network| GET file:///C:/Users/Admin/Downloads/starter-kit/starter-kit/phong-thu-am-wedsite/web/images/logo-sound.png net::ERR_FILE_NOT_FOUND | sửa thành logo-soundlab.png |
+| 2 |  console |app.js:18 Uncaught ReferenceError: hienThiGoiThuAm is not defined  |tại dòng 18 của java sửa từ hiển thị gói thu mm sang hien thi goi thu  |
 
 > Ảnh chụp màn hình lưu trong thư mục `evidence/` (network.png, console.png).
 
@@ -191,7 +191,7 @@ Property :
 ### Câu tìm kiếm Google
 
 ```text
-(Ghi câu tìm kiếm vào đây – xoá dòng này)
+site:stackoverflow.com "Uncaught ReferenceError
 
 ```
 
